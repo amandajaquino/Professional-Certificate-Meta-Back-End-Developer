@@ -9,7 +9,7 @@ b = 'This is a multi' \
     'line string example'
 print(b)
 
-#output in a line: This is a multiline string example
+#output in a line: This is a line string example
 
 a = 'hello'
 b = 'there'

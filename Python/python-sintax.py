@@ -25,7 +25,7 @@ if name == "John":
     print(name)
 #output John, see identation for correct processing
 
-# rashtag is for both single and multiple lines
+# rashtag is for both single and multiple lines our """ for multiple line without put it in all
 
 
 
